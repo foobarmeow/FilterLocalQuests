@@ -1,0 +1,6 @@
+## Interface: 70000
+## Title: Filter Local Quests
+## Author: Caleb Davis
+## Version: 0.1
+
+FilterLocalQuests.lua
